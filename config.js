@@ -10,3 +10,4 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/397000a07a1deb7fad9
 MONGODB: process.env.MONGODB || "",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 };
+7CJDgRAC#pP3uTKsBVEMJpQHYlHZwD_U1JxfVK-JnoDslPa9PyCU
